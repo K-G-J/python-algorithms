@@ -4,6 +4,8 @@ from math import inf
 """
 Dijkstra's Algorithm
 
+Find the shortest path from a start vertex to all other vertices in the graph.
+
 Time Complexity: O((E+V)log V)
 Space Complexity: O(V)
 """
